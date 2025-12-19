@@ -1,0 +1,513 @@
+{
+  "BirthPlace": "Madurai",
+  "DOB": "25-Jan-2024 03:45:30 AM",
+  "Longitude": 78.03,
+  "Latitude": 9.93,
+  "Panchang": {
+    "Day": {
+      "Name": "Jupiter-Thursday",
+      "From": "Thursday-06:39",
+      "To": "Friday-06:39",
+      "degree": 0,
+      "StartDate": "2024-01-24T06:39:21.577",
+      "EndDate": "2024-01-25T06:39:37.04"
+    },
+    "Nakshatra": {
+      "Name": "Punarvasu-Ju",
+      "From": "Wednesday-06:11",
+      "To": "Thursday-08:19",
+      "degree": 6.83,
+      "StartDate": "2024-01-24T06:11:58.273",
+      "EndDate": "2024-01-25T08:19:09.726"
+    },
+    "Tithi": {
+      "Name": "Poornima Full- Sa",
+      "From": "Wednesday-21:48",
+      "To": "Thursday-23:26",
+      "degree": 14.23,
+      "StartDate": "2024-01-24T21:48:32.292",
+      "EndDate": "2024-01-25T23:26:38.031"
+    },
+    "Karana": {
+      "Name": "Vishti-Sa",
+      "From": "Wednesday-21:48",
+      "To": "Thursday-10:37",
+      "degree": 28.46,
+      "StartDate": "2024-01-24T21:48:32.292",
+      "EndDate": "2024-01-25T10:37:35.162"
+    },
+    "Yoga": {
+      "Name": "Vishkambha-(Sa)",
+      "From": "Wednesday-07:27",
+      "To": "Thursday-07:34",
+      "degree": 0.84,
+      "StartDate": "2024-01-24T07:27:11.364",
+      "EndDate": "2024-01-25T07:34:18.328"
+    }
+  },
+  "RasiChartPosition": {
+    "chartDivisonName": "Rasi",
+    "planetaryPositions": [
+      {
+        "ID": 0,
+        "zName": "Asc/Lagna   ",
+        "zText": "Lg",
+        "fullDegree": 237,
+        "signDegree": "7s 27* 0\"",
+        "speed": 0,
+        "isRetro": false,
+        "house": 8,
+        "houseSign": "Scorpio",
+        "houseSignLord": "Mars/Mangal",
+        "nakshatra": "Jyeshtha-Me",
+        "nakshatraPada": 4,
+        "bhava": 1
+      },
+      {
+        "ID": 1,
+        "zName": "Sun/Surya   ",
+        "zText": "Su",
+        "fullDegree": 280.2201088462672,
+        "signDegree": "9s 10* 13\"",
+        "speed": 1.17656011835173e-8,
+        "isRetro": false,
+        "house": 10,
+        "houseSign": "Capricorn",
+        "houseSignLord": "Saturn/Shani",
+        "nakshatra": "Shravan-Mo",
+        "nakshatraPada": 1,
+        "bhava": 3
+      },
+      {
+        "ID": 2,
+        "zName": "Moon/Chandra",
+        "zText": "Mo",
+        "fullDegree": 91.00507313625292,
+        "signDegree": "3s 1* 0\"",
+        "speed": 1.41796526118516e-7,
+        "isRetro": false,
+        "house": 4,
+        "houseSign": "Cancer",
+        "houseSignLord": "Moon/Chandra",
+        "nakshatra": "Punarvasu-Ju",
+        "nakshatraPada": 4,
+        "bhava": 9
+      },
+      {
+        "ID": 3,
+        "zName": "Mars/Mangal ",
+        "zText": "Ma",
+        "fullDegree": 261.0635143770428,
+        "signDegree": "8s 21* 3\"",
+        "speed": 8.7714426475874e-9,
+        "isRetro": false,
+        "house": 9,
+        "houseSign": "Sagittarius",
+        "houseSignLord": "Jupiter/Guru",
+        "nakshatra": "Purva Ashadha-Ve",
+        "nakshatraPada": 3,
+        "bhava": 2
+      },
+      {
+        "ID": 4,
+        "zName": "Merc/Buddha ",
+        "zText": "Me",
+        "fullDegree": 259.33838278861117,
+        "signDegree": "8s 19* 20\"",
+        "speed": 1.60200786556924e-8,
+        "isRetro": false,
+        "house": 9,
+        "houseSign": "Sagittarius",
+        "houseSignLord": "Jupiter/Guru",
+        "nakshatra": "Purva Ashadha-Ve",
+        "nakshatraPada": 2,
+        "bhava": 2
+      },
+      {
+        "ID": 5,
+        "zName": "Jupiter/Guru",
+        "zText": "Ju",
+        "fullDegree": 12.43277761144634,
+        "signDegree": "0s 12* 25\"",
+        "speed": 9.70221737560056e-10,
+        "isRetro": false,
+        "house": 1,
+        "houseSign": "Aries",
+        "houseSignLord": "Mars/Mangal",
+        "nakshatra": "Ashvini-Ke",
+        "nakshatraPada": 4,
+        "bhava": 6
+      },
+      {
+        "ID": 6,
+        "zName": "Venus/Shukra",
+        "zText": "Ve",
+        "fullDegree": 247.7303770980916,
+        "signDegree": "8s 7* 43\"",
+        "speed": 1.42515282896246e-8,
+        "isRetro": false,
+        "house": 9,
+        "houseSign": "Sagittarius",
+        "houseSignLord": "Jupiter/Guru",
+        "nakshatra": "Mula-Ke",
+        "nakshatraPada": 3,
+        "bhava": 2
+      },
+      {
+        "ID": 7,
+        "zName": "Saturn/Shani",
+        "zText": "Sa",
+        "fullDegree": 311.4567172522593,
+        "signDegree": "10s 11* 27\"",
+        "speed": 1.28103140893156e-9,
+        "isRetro": false,
+        "house": 11,
+        "houseSign": "Aquarius",
+        "houseSignLord": "Saturn/Shani",
+        "nakshatra": "Shatabhishaj-Ra",
+        "nakshatraPada": 2,
+        "bhava": 4
+      },
+      {
+        "ID": 8,
+        "zName": "Rahu        ",
+        "zText": "Ra",
+        "fullDegree": 355.4173657248066,
+        "signDegree": "11s 25* 25\"",
+        "speed": 0,
+        "isRetro": false,
+        "house": 12,
+        "houseSign": "Pisces",
+        "houseSignLord": "Jupiter/Guru",
+        "nakshatra": "Revati-Me",
+        "nakshatraPada": 3,
+        "bhava": 5
+      },
+      {
+        "ID": 9,
+        "zName": "Ketu        ",
+        "zText": "Ke",
+        "fullDegree": 175,
+        "signDegree": "5s 25* 0\"",
+        "speed": 0,
+        "isRetro": false,
+        "house": 6,
+        "houseSign": "Virgo",
+        "houseSignLord": "Mercury/Budha",
+        "nakshatra": "Chitra-Ma",
+        "nakshatraPada": 1,
+        "bhava": 11
+      }
+    ]
+  },
+  "NavamsaChartPosition": {
+    "chartDivisonName": "Navamsa",
+    "planetaryPositions": [
+      {
+        "ID": 0,
+        "zName": "Asc/Lagna   ",
+        "zText": "Lg",
+        "fullDegree": 237,
+        "signDegree": "7s 27* 0\"",
+        "speed": 0,
+        "isRetro": false,
+        "house": 12,
+        "houseSign": "Pisces",
+        "houseSignLord": "Jupiter/Guru",
+        "nakshatra": "Jyeshtha-Me",
+        "nakshatraPada": 4,
+        "bhava": 1
+      },
+      {
+        "ID": 1,
+        "zName": "Sun/Surya   ",
+        "zText": "Su",
+        "fullDegree": 280.2201088462672,
+        "signDegree": "9s 10* 13\"",
+        "speed": 1.17656011835173e-8,
+        "isRetro": false,
+        "house": 1,
+        "houseSign": "Aries",
+        "houseSignLord": "Mars/Mangal",
+        "nakshatra": "Shravan-Mo",
+        "nakshatraPada": 1,
+        "bhava": 3
+      },
+      {
+        "ID": 2,
+        "zName": "Moon/Chandra",
+        "zText": "Mo",
+        "fullDegree": 91.00507313625292,
+        "signDegree": "3s 1* 0\"",
+        "speed": 1.41796526118516e-7,
+        "isRetro": false,
+        "house": 4,
+        "houseSign": "Cancer",
+        "houseSignLord": "Moon/Chandra",
+        "nakshatra": "Punarvasu-Ju",
+        "nakshatraPada": 4,
+        "bhava": 9
+      },
+      {
+        "ID": 3,
+        "zName": "Mars/Mangal ",
+        "zText": "Ma",
+        "fullDegree": 261.0635143770428,
+        "signDegree": "8s 21* 3\"",
+        "speed": 8.7714426475874e-9,
+        "isRetro": false,
+        "house": 7,
+        "houseSign": "Libra",
+        "houseSignLord": "Venus/Shukra",
+        "nakshatra": "Purva Ashadha-Ve",
+        "nakshatraPada": 3,
+        "bhava": 2
+      },
+      {
+        "ID": 4,
+        "zName": "Merc/Buddha ",
+        "zText": "Me",
+        "fullDegree": 259.33838278861117,
+        "signDegree": "8s 19* 20\"",
+        "speed": 1.60200786556924e-8,
+        "isRetro": false,
+        "house": 6,
+        "houseSign": "Virgo",
+        "houseSignLord": "Mercury/Budha",
+        "nakshatra": "Purva Ashadha-Ve",
+        "nakshatraPada": 2,
+        "bhava": 2
+      },
+      {
+        "ID": 5,
+        "zName": "Jupiter/Guru",
+        "zText": "Ju",
+        "fullDegree": 12.43277761144634,
+        "signDegree": "0s 12* 25\"",
+        "speed": 9.70221737560056e-10,
+        "isRetro": false,
+        "house": 4,
+        "houseSign": "Cancer",
+        "houseSignLord": "Moon/Chandra",
+        "nakshatra": "Ashvini-Ke",
+        "nakshatraPada": 4,
+        "bhava": 6
+      },
+      {
+        "ID": 6,
+        "zName": "Venus/Shukra",
+        "zText": "Ve",
+        "fullDegree": 247.7303770980916,
+        "signDegree": "8s 7* 43\"",
+        "speed": 1.42515282896246e-8,
+        "isRetro": false,
+        "house": 3,
+        "houseSign": "Gemini",
+        "houseSignLord": "Mercury/Budha",
+        "nakshatra": "Mula-Ke",
+        "nakshatraPada": 3,
+        "bhava": 2
+      },
+      {
+        "ID": 7,
+        "zName": "Saturn/Shani",
+        "zText": "Sa",
+        "fullDegree": 311.4567172522593,
+        "signDegree": "10s 11* 27\"",
+        "speed": 1.28103140893156e-9,
+        "isRetro": false,
+        "house": 10,
+        "houseSign": "Capricorn",
+        "houseSignLord": "Saturn/Shani",
+        "nakshatra": "Shatabhishaj-Ra",
+        "nakshatraPada": 2,
+        "bhava": 4
+      },
+      {
+        "ID": 8,
+        "zName": "Rahu        ",
+        "zText": "Ra",
+        "fullDegree": 355.4173657248066,
+        "signDegree": "11s 25* 25\"",
+        "speed": 0,
+        "isRetro": false,
+        "house": 11,
+        "houseSign": "Aquarius",
+        "houseSignLord": "Saturn/Shani",
+        "nakshatra": "Revati-Me",
+        "nakshatraPada": 3,
+        "bhava": 5
+      },
+      {
+        "ID": 9,
+        "zName": "Ketu        ",
+        "zText": "Ke",
+        "fullDegree": 175,
+        "signDegree": "5s 25* 0\"",
+        "speed": 0,
+        "isRetro": false,
+        "house": 5,
+        "houseSign": "Leo",
+        "houseSignLord": "Sun/Surya",
+        "nakshatra": "Chitra-Ma",
+        "nakshatraPada": 1,
+        "bhava": 11
+      }
+    ]
+  },
+  "Samvatsara": "Shobhakrutha(37)",
+  "PanchaSamvatsara": "Parivatsara(Aditya)-2nd",
+  "KaliYear": 5125,
+  "SauraMaasa": "Capricorn",
+  "IshtaGhati": "86",
+  "Ayanamsha": "-24* -11\"",
+  "Panchanka": "Panchaka Nx+Tithi+vara+lagna=35 : 8-Roga Pachaka(Donate Food Grains)",
+  "Lagnas": [
+    {
+      "Lagna": "Scorpio",
+      "startDate": "2024-01-25T01:45:30",
+      "endDate": "2024-01-25T03:55:30",
+      "PushkaraNavamsha": null
+    },
+    {
+      "Lagna": "Sagittarius",
+      "startDate": "2024-01-25T03:55:30",
+      "endDate": "2024-01-25T06:03:30",
+      "PushkaraNavamsha": null
+    },
+    {
+      "Lagna": "Capricorn",
+      "startDate": "2024-01-25T06:03:30",
+      "endDate": "2024-01-25T07:58:30",
+      "PushkaraNavamsha": null
+    },
+    {
+      "Lagna": "Aquarius",
+      "startDate": "2024-01-25T07:58:30",
+      "endDate": "2024-01-25T09:43:30",
+      "PushkaraNavamsha": null
+    },
+    {
+      "Lagna": "Pisces",
+      "startDate": "2024-01-25T09:43:30",
+      "endDate": "2024-01-25T11:25:30",
+      "PushkaraNavamsha": null
+    },
+    {
+      "Lagna": "Aries",
+      "startDate": "2024-01-25T11:25:30",
+      "endDate": "2024-01-25T13:15:30",
+      "PushkaraNavamsha": null
+    },
+    {
+      "Lagna": "Taurus",
+      "startDate": "2024-01-25T13:15:30",
+      "endDate": "2024-01-25T15:19:30",
+      "PushkaraNavamsha": null
+    },
+    {
+      "Lagna": "Gemini",
+      "startDate": "2024-01-25T15:19:30",
+      "endDate": "2024-01-25T17:30:30",
+      "PushkaraNavamsha": null
+    },
+    {
+      "Lagna": "Cancer",
+      "startDate": "2024-01-25T17:30:30",
+      "endDate": "2024-01-25T19:37:30",
+      "PushkaraNavamsha": null
+    },
+    {
+      "Lagna": "Leo",
+      "startDate": "2024-01-25T19:37:30",
+      "endDate": "2024-01-25T21:38:30",
+      "PushkaraNavamsha": null
+    },
+    {
+      "Lagna": "Virgo",
+      "startDate": "2024-01-25T21:38:30",
+      "endDate": "2024-01-25T23:36:30",
+      "PushkaraNavamsha": null
+    },
+    {
+      "Lagna": "Libra",
+      "startDate": "2024-01-25T23:36:30",
+      "endDate": "2024-01-26T01:41:30",
+      "PushkaraNavamsha": null
+    }
+  ],
+  "BhavaChart": [
+    {
+      "bhavaID": 1,
+      "bhavaMadya": "7s 27* 44\"",
+      "bhavaSandhi": "8s 13* 16\""
+    },
+    {
+      "bhavaID": 2,
+      "bhavaMadya": "8s 28* 47\"",
+      "bhavaSandhi": "9s 14* 19\""
+    },
+    {
+      "bhavaID": 3,
+      "bhavaMadya": "9s 29* 51\"",
+      "bhavaSandhi": "10s 15* 23\""
+    },
+    {
+      "bhavaID": 4,
+      "bhavaMadya": "11s 0* 55\"",
+      "bhavaSandhi": "11s 15* 23\""
+    },
+    {
+      "bhavaID": 5,
+      "bhavaMadya": "11s 29* 51\"",
+      "bhavaSandhi": "0s 14* 19\""
+    },
+    {
+      "bhavaID": 6,
+      "bhavaMadya": "0s 28* 47\"",
+      "bhavaSandhi": "1s 13* 16\""
+    },
+    {
+      "bhavaID": 7,
+      "bhavaMadya": "1s 27* 44\"",
+      "bhavaSandhi": "2s 13* 16\""
+    },
+    {
+      "bhavaID": 8,
+      "bhavaMadya": "2s 28* 47\"",
+      "bhavaSandhi": "3s 14* 19\""
+    },
+    {
+      "bhavaID": 9,
+      "bhavaMadya": "3s 29* 51\"",
+      "bhavaSandhi": "4s 15* 23\""
+    },
+    {
+      "bhavaID": 10,
+      "bhavaMadya": "5s 0* 55\"",
+      "bhavaSandhi": "5s 15* 23\""
+    },
+    {
+      "bhavaID": 11,
+      "bhavaMadya": "5s 29* 51\"",
+      "bhavaSandhi": "6s 14* 19\""
+    },
+    {
+      "bhavaID": 12,
+      "bhavaMadya": "6s 28* 47\"",
+      "bhavaSandhi": "7s 13* 16\""
+    }
+  ],
+  "MaandiTimePosition": {
+    "DayTime": "09:23:21",
+    "DayDate": "2024-01-24T09:23:21.395",
+    "DayPosition": "10s 23* 10\"",
+    "NightTime": "05:00:55",
+    "NightDate": "2024-01-25T05:00:55.537",
+    "NightPosition": "8s 15* 1\""
+  },
+  "LagnaRisingPredictions": null,
+  "YogaResults": null,
+  "PlanetsPlacementAndAspects": null,
+  "PredictionResults": null
+}

@@ -1,0 +1,222 @@
+{
+  "Chaughadia": [
+    {
+      "ID": 0,
+      "Day": "Day Time",
+      "ChaughadiaChakra": "Shubha-Ju",
+      "StartTime": "2024-01-25T06:39:30.011",
+      "EndTime": "2024-01-25T08:06:58.425",
+      "Date": "2024-01-25T06:39:30.011",
+      "RisingDegrees": "9s 9* 6\""
+    },
+    {
+      "ID": 1,
+      "Day": "Day Time",
+      "ChaughadiaChakra": "Roga-Ma",
+      "StartTime": "2024-01-25T08:06:58.425",
+      "EndTime": "2024-01-25T09:34:26.839",
+      "Date": "2024-01-25T08:06:58.425",
+      "RisingDegrees": "10s 2* 15\""
+    },
+    {
+      "ID": 2,
+      "Day": "Day Time",
+      "ChaughadiaChakra": "Udvega-Su",
+      "StartTime": "2024-01-25T09:34:26.839",
+      "EndTime": "2024-01-25T11:01:55.253",
+      "Date": "2024-01-25T09:34:26.839",
+      "RisingDegrees": "10s 27* 34\""
+    },
+    {
+      "ID": 3,
+      "Day": "Day Time",
+      "ChaughadiaChakra": "Chara-Ve",
+      "StartTime": "2024-01-25T11:01:55.253",
+      "EndTime": "2024-01-25T12:29:23.667",
+      "Date": "2024-01-25T11:01:55.253",
+      "RisingDegrees": "11s 23* 10\""
+    },
+    {
+      "ID": 4,
+      "Day": "Day Time",
+      "ChaughadiaChakra": "Laabha-Me",
+      "StartTime": "2024-01-25T12:29:23.667",
+      "EndTime": "2024-01-25T13:56:52.081",
+      "Date": "2024-01-25T12:29:23.667",
+      "RisingDegrees": "0s 17* 53\""
+    },
+    {
+      "ID": 5,
+      "Day": "Day Time",
+      "ChaughadiaChakra": "Amrit-Mo",
+      "StartTime": "2024-01-25T13:56:52.081",
+      "EndTime": "2024-01-25T15:24:20.495",
+      "Date": "2024-01-25T13:56:52.081",
+      "RisingDegrees": "1s 10* 19\""
+    },
+    {
+      "ID": 6,
+      "Day": "Day Time",
+      "ChaughadiaChakra": "Kaala-Sa",
+      "StartTime": "2024-01-25T15:24:20.495",
+      "EndTime": "2024-01-25T16:51:48.909",
+      "Date": "2024-01-25T15:24:20.495",
+      "RisingDegrees": "2s 1* 17\""
+    },
+    {
+      "ID": 7,
+      "Day": "Day Time",
+      "ChaughadiaChakra": "Shubha-Ju",
+      "StartTime": "2024-01-25T16:51:48.909",
+      "EndTime": "2024-01-25T18:19:17.323",
+      "Date": "2024-01-25T16:51:48.909",
+      "RisingDegrees": "2s 21* 13\""
+    },
+    {
+      "ID": 9,
+      "Day": "Night Time",
+      "ChaughadiaChakra": "Amrit-Mo",
+      "StartTime": "2024-01-25T18:19:17.33",
+      "EndTime": "2024-01-25T19:51:48.915",
+      "Date": "2024-01-25T18:19:17.33",
+      "RisingDegrees": "3s 11* 28\""
+    },
+    {
+      "ID": 10,
+      "Day": "Night Time",
+      "ChaughadiaChakra": "Chara-Ve",
+      "StartTime": "2024-01-25T19:51:48.915",
+      "EndTime": "2024-01-25T21:24:20.5",
+      "Date": "2024-01-25T19:51:48.915",
+      "RisingDegrees": "4s 3* 28\""
+    },
+    {
+      "ID": 11,
+      "Day": "Night Time",
+      "ChaughadiaChakra": "Roga-Ma",
+      "StartTime": "2024-01-25T21:24:20.5",
+      "EndTime": "2024-01-25T22:56:52.085",
+      "Date": "2024-01-25T21:24:20.5",
+      "RisingDegrees": "4s 26* 41\""
+    },
+    {
+      "ID": 12,
+      "Day": "Night Time",
+      "ChaughadiaChakra": "Kaala-Sa",
+      "StartTime": "2024-01-25T22:56:52.085",
+      "EndTime": "2024-01-26T00:29:23.67",
+      "Date": "2024-01-25T22:56:52.085",
+      "RisingDegrees": "5s 20* 0\""
+    },
+    {
+      "ID": 13,
+      "Day": "Night Time",
+      "ChaughadiaChakra": "Laabha-Me",
+      "StartTime": "2024-01-26T00:29:23.67",
+      "EndTime": "2024-01-26T02:01:55.255",
+      "Date": "2024-01-26T00:29:23.67",
+      "RisingDegrees": "6s 13* 2\""
+    },
+    {
+      "ID": 14,
+      "Day": "Night Time",
+      "ChaughadiaChakra": "Udvega-Su",
+      "StartTime": "2024-01-26T02:01:55.255",
+      "EndTime": "2024-01-26T03:34:26.84",
+      "Date": "2024-01-26T02:01:55.255",
+      "RisingDegrees": "7s 4* 49\""
+    },
+    {
+      "ID": 15,
+      "Day": "Night Time",
+      "ChaughadiaChakra": "Shubha-Ju",
+      "StartTime": "2024-01-26T03:34:26.84",
+      "EndTime": "2024-01-26T05:06:58.425",
+      "Date": "2024-01-26T03:34:26.84",
+      "RisingDegrees": "7s 26* 7\""
+    },
+    {
+      "ID": 16,
+      "Day": "Night Time",
+      "ChaughadiaChakra": "Amrit-Mo",
+      "StartTime": "2024-01-26T05:06:58.425",
+      "EndTime": "2024-01-26T06:39:30.01",
+      "Date": "2024-01-26T05:06:58.425",
+      "RisingDegrees": "8s 17* 21\""
+    }
+  ],
+  "Kalam": [
+    {
+      "kalamName": "Yamaghanta",
+      "StartTime": "2024-01-25T06:39:30.011",
+      "EndTime": "2024-01-25T08:06:58.425",
+      "Date": "2024-01-25T06:39:30.011"
+    },
+    {
+      "kalamName": "Gulika",
+      "StartTime": "2024-01-25T09:34:26.839",
+      "EndTime": "2024-01-25T11:01:55.253",
+      "Date": "2024-01-25T09:34:26.839"
+    },
+    {
+      "kalamName": "Kaala",
+      "StartTime": "2024-01-25T11:01:55.253",
+      "EndTime": "2024-01-25T12:29:23.667",
+      "Date": "2024-01-25T11:01:55.253"
+    },
+    {
+      "kalamName": "Mrityu",
+      "StartTime": "2024-01-25T13:56:52.081",
+      "EndTime": "2024-01-25T15:24:20.495",
+      "Date": "2024-01-25T13:56:52.081"
+    },
+    {
+      "kalamName": "Ardhaprahara",
+      "StartTime": "2024-01-25T15:24:20.495",
+      "EndTime": "2024-01-25T16:51:48.909",
+      "Date": "2024-01-25T15:24:20.495"
+    },
+    {
+      "kalamName": "Mrityu",
+      "StartTime": "2024-01-25T19:51:48.915",
+      "EndTime": "2024-01-25T21:24:20.5",
+      "Date": "2024-01-25T19:51:48.915"
+    },
+    {
+      "kalamName": "Ardhaprahara",
+      "StartTime": "2024-01-25T21:24:20.5",
+      "EndTime": "2024-01-25T22:56:52.085",
+      "Date": "2024-01-25T21:24:20.5"
+    },
+    {
+      "kalamName": "Yamaghanta",
+      "StartTime": "2024-01-25T22:56:52.085",
+      "EndTime": "2024-01-26T00:29:23.67",
+      "Date": "2024-01-25T22:56:52.085"
+    },
+    {
+      "kalamName": "Gulika",
+      "StartTime": "2024-01-26T02:01:55.255",
+      "EndTime": "2024-01-26T03:34:26.84",
+      "Date": "2024-01-26T02:01:55.255"
+    },
+    {
+      "kalamName": "Kaala",
+      "StartTime": "2024-01-26T03:34:26.84",
+      "EndTime": "2024-01-26T05:06:58.425",
+      "Date": "2024-01-26T03:34:26.84"
+    }
+  ],
+  "RahuKalam": [
+    {
+      "Date": "2024-01-25T13:56:52.081",
+      "StartTime": "2024-01-25T13:56:52.081",
+      "EndTime": "2024-01-25T15:24:20.495"
+    },
+    {
+      "Date": "2024-01-25T19:51:48.915",
+      "StartTime": "2024-01-25T19:51:48.915",
+      "EndTime": "2024-01-25T21:24:20.5"
+    }
+  ]
+}

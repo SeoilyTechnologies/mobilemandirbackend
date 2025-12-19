@@ -1,0 +1,880 @@
+{
+    "success": false,
+    "from": "dummy-fallback",
+    "message": "Failed to call remote API. Returning dummy data.",
+    "data": {
+        "place": "Madurai",
+        "date": "25-Jan-2024",
+        "SunriseMoonrise": {
+            "Sunrise": "06:39:30",
+            "Noon_Abhijit": "12:29:23",
+            "Sunset": "18:19:17",
+            "Lagna": "279.10424033443763 ( 9s 9* 6\"  )",
+            "Ayanamsha": "-24.192612921515508 ( 0s -24* -11\"  )",
+            "SunriseDegree": "280.2552486674376 ( 9s 10* 15\"  )"
+        },
+        "Panchang": {
+            "Day": {
+                "Name": "Jupiter-Thursday",
+                "From": "Thursday-06:39",
+                "To": "Friday-06:39",
+                "degree": 0,
+                "StartDate": "2024-01-25T06:39:30.011",
+                "EndDate": "2024-01-26T06:39:45.474"
+            },
+            "Nakshatra": {
+                "Name": "Punarvasu-Ju",
+                "From": "Wednesday-06:08",
+                "To": "Thursday-08:18",
+                "degree": 6.94,
+                "StartDate": "2024-01-24T06:08:43.055",
+                "EndDate": "2024-01-25T08:18:19.712"
+            },
+            "Tithi": {
+                "Name": "Poornima Full- Sa",
+                "From": "Wednesday-21:46",
+                "To": "Thursday-23:27",
+                "degree": 14.35,
+                "StartDate": "2024-01-24T21:46:34.152",
+                "EndDate": "2024-01-25T23:27:15.083"
+            },
+            "Karana": {
+                "Name": "Vishti-Sa",
+                "From": "Wednesday-21:46",
+                "To": "Thursday-10:36",
+                "degree": 28.69,
+                "StartDate": "2024-01-24T21:46:34.152",
+                "EndDate": "2024-01-25T10:36:54.618"
+            },
+            "Yoga": {
+                "Name": "Vishkambha-(Sa)",
+                "From": "Wednesday-07:24",
+                "To": "Thursday-07:33",
+                "degree": 0.96,
+                "StartDate": "2024-01-24T07:24:17.335",
+                "EndDate": "2024-01-25T07:33:28.278"
+            }
+        },
+        "MoonSign_Rasi": "Cancer",
+        "SunSign": "Capricorn",
+        "ChartPosition": {
+            "chartDivisonName": "Lagna Chart at Sunrise",
+            "planetaryPositions": [
+                {
+                    "ID": 0,
+                    "zName": "Asc/Lagna   ",
+                    "zText": "Lg",
+                    "fullDegree": 279.10424033443763,
+                    "signDegree": "9s 9* 6\"",
+                    "speed": 0,
+                    "isRetro": false,
+                    "house": 10,
+                    "houseSign": "Capricorn",
+                    "houseSignLord": "Saturn/Shani",
+                    "nakshatra": "Uttara Ashadha-Su",
+                    "nakshatraPada": 4,
+                    "bhava": 1
+                },
+                {
+                    "ID": 1,
+                    "zName": "Sun/Surya   ",
+                    "zText": "Su",
+                    "fullDegree": 280.34294853198344,
+                    "signDegree": "9s 10* 20\"",
+                    "speed": 1.17652730813102e-8,
+                    "isRetro": false,
+                    "house": 10,
+                    "houseSign": "Capricorn",
+                    "houseSignLord": "Saturn/Shani",
+                    "nakshatra": "Shravan-Mo",
+                    "nakshatraPada": 1,
+                    "bhava": 1
+                },
+                {
+                    "ID": 2,
+                    "zName": "Moon/Chandra",
+                    "zText": "Mo",
+                    "fullDegree": 92.49381864010542,
+                    "signDegree": "3s 2* 29\"",
+                    "speed": 1.41577899261869e-7,
+                    "isRetro": false,
+                    "house": 4,
+                    "houseSign": "Cancer",
+                    "houseSignLord": "Moon/Chandra",
+                    "nakshatra": "Punarvasu-Ju",
+                    "nakshatraPada": 4,
+                    "bhava": 7
+                },
+                {
+                    "ID": 3,
+                    "zName": "Mars/Mangal ",
+                    "zText": "Ma",
+                    "fullDegree": 261.15505068193374,
+                    "signDegree": "8s 21* 9\"",
+                    "speed": 8.77228121070199e-9,
+                    "isRetro": false,
+                    "house": 9,
+                    "houseSign": "Sagittarius",
+                    "houseSignLord": "Jupiter/Guru",
+                    "nakshatra": "Purva Ashadha-Ve",
+                    "nakshatraPada": 3,
+                    "bhava": 12
+                },
+                {
+                    "ID": 4,
+                    "zName": "Merc/Buddha ",
+                    "zText": "Me",
+                    "fullDegree": 259.5047284590396,
+                    "signDegree": "8s 19* 30\"",
+                    "speed": 1.60434901720545e-8,
+                    "isRetro": false,
+                    "house": 9,
+                    "houseSign": "Sagittarius",
+                    "houseSignLord": "Jupiter/Guru",
+                    "nakshatra": "Purva Ashadha-Ve",
+                    "nakshatraPada": 2,
+                    "bhava": 12
+                },
+                {
+                    "ID": 5,
+                    "zName": "Jupiter/Guru",
+                    "zText": "Ju",
+                    "fullDegree": 12.442742285465897,
+                    "signDegree": "0s 12* 26\"",
+                    "speed": 9.74393641878029e-10,
+                    "isRetro": false,
+                    "house": 1,
+                    "houseSign": "Aries",
+                    "houseSignLord": "Mars/Mangal",
+                    "nakshatra": "Ashvini-Ke",
+                    "nakshatraPada": 4,
+                    "bhava": 4
+                },
+                {
+                    "ID": 6,
+                    "zName": "Venus/Shukra",
+                    "zText": "Ve",
+                    "fullDegree": 247.87913590029916,
+                    "signDegree": "8s 7* 52\"",
+                    "speed": 1.4252091062112e-8,
+                    "isRetro": false,
+                    "house": 9,
+                    "houseSign": "Sagittarius",
+                    "houseSignLord": "Jupiter/Guru",
+                    "nakshatra": "Mula-Ke",
+                    "nakshatraPada": 3,
+                    "bhava": 12
+                },
+                {
+                    "ID": 7,
+                    "zName": "Saturn/Shani",
+                    "zText": "Sa",
+                    "fullDegree": 311.4700507122982,
+                    "signDegree": "10s 11* 28\"",
+                    "speed": 1.28194310277757e-9,
+                    "isRetro": false,
+                    "house": 11,
+                    "houseSign": "Aquarius",
+                    "houseSignLord": "Saturn/Shani",
+                    "nakshatra": "Shatabhishaj-Ra",
+                    "nakshatraPada": 2,
+                    "bhava": 2
+                },
+                {
+                    "ID": 8,
+                    "zName": "Rahu        ",
+                    "zText": "Ra",
+                    "fullDegree": 355.4109614599559,
+                    "signDegree": "11s 25* 24\"",
+                    "speed": 0,
+                    "isRetro": false,
+                    "house": 12,
+                    "houseSign": "Pisces",
+                    "houseSignLord": "Jupiter/Guru",
+                    "nakshatra": "Revati-Me",
+                    "nakshatraPada": 3,
+                    "bhava": 3
+                },
+                {
+                    "ID": 9,
+                    "zName": "Ketu        ",
+                    "zText": "Ke",
+                    "fullDegree": 175.41096145995584,
+                    "signDegree": "5s 25* 24\"",
+                    "speed": 0,
+                    "isRetro": false,
+                    "house": 6,
+                    "houseSign": "Virgo",
+                    "houseSignLord": "Mercury/Budha",
+                    "nakshatra": "Chitra-Ma",
+                    "nakshatraPada": 1,
+                    "bhava": 9
+                }
+            ]
+        },
+        "MaandiTimePosition": {
+            "DayTime": "09:23:15",
+            "DayDate": "2024-01-25T09:23:15.772",
+            "DayPosition": "10s 24* 20\"",
+            "NightTime": "05:01:01",
+            "NightDate": "2024-01-26T05:01:01.722",
+            "NightPosition": "8s 16* 10\""
+        },
+        "Muhurat": {
+            "Chaughadia": [
+                {
+                    "ID": 0,
+                    "Day": "Day Time",
+                    "ChaughadiaChakra": "Shubha-Ju",
+                    "StartTime": "2024-01-25T06:39:30.011",
+                    "EndTime": "2024-01-25T08:06:58.425",
+                    "Date": "2024-01-25T06:39:30.011",
+                    "RisingDegrees": "9s 9* 6\""
+                },
+                {
+                    "ID": 1,
+                    "Day": "Day Time",
+                    "ChaughadiaChakra": "Roga-Ma",
+                    "StartTime": "2024-01-25T08:06:58.425",
+                    "EndTime": "2024-01-25T09:34:26.839",
+                    "Date": "2024-01-25T08:06:58.425",
+                    "RisingDegrees": "10s 2* 15\""
+                },
+                {
+                    "ID": 2,
+                    "Day": "Day Time",
+                    "ChaughadiaChakra": "Udvega-Su",
+                    "StartTime": "2024-01-25T09:34:26.839",
+                    "EndTime": "2024-01-25T11:01:55.253",
+                    "Date": "2024-01-25T09:34:26.839",
+                    "RisingDegrees": "10s 27* 34\""
+                },
+                {
+                    "ID": 3,
+                    "Day": "Day Time",
+                    "ChaughadiaChakra": "Chara-Ve",
+                    "StartTime": "2024-01-25T11:01:55.253",
+                    "EndTime": "2024-01-25T12:29:23.667",
+                    "Date": "2024-01-25T11:01:55.253",
+                    "RisingDegrees": "11s 23* 10\""
+                },
+                {
+                    "ID": 4,
+                    "Day": "Day Time",
+                    "ChaughadiaChakra": "Laabha-Me",
+                    "StartTime": "2024-01-25T12:29:23.667",
+                    "EndTime": "2024-01-25T13:56:52.081",
+                    "Date": "2024-01-25T12:29:23.667",
+                    "RisingDegrees": "0s 17* 53\""
+                },
+                {
+                    "ID": 5,
+                    "Day": "Day Time",
+                    "ChaughadiaChakra": "Amrit-Mo",
+                    "StartTime": "2024-01-25T13:56:52.081",
+                    "EndTime": "2024-01-25T15:24:20.495",
+                    "Date": "2024-01-25T13:56:52.081",
+                    "RisingDegrees": "1s 10* 19\""
+                },
+                {
+                    "ID": 6,
+                    "Day": "Day Time",
+                    "ChaughadiaChakra": "Kaala-Sa",
+                    "StartTime": "2024-01-25T15:24:20.495",
+                    "EndTime": "2024-01-25T16:51:48.909",
+                    "Date": "2024-01-25T15:24:20.495",
+                    "RisingDegrees": "2s 1* 17\""
+                },
+                {
+                    "ID": 7,
+                    "Day": "Day Time",
+                    "ChaughadiaChakra": "Shubha-Ju",
+                    "StartTime": "2024-01-25T16:51:48.909",
+                    "EndTime": "2024-01-25T18:19:17.323",
+                    "Date": "2024-01-25T16:51:48.909",
+                    "RisingDegrees": "2s 21* 13\""
+                },
+                {
+                    "ID": 9,
+                    "Day": "Night Time",
+                    "ChaughadiaChakra": "Amrit-Mo",
+                    "StartTime": "2024-01-25T18:19:17.33",
+                    "EndTime": "2024-01-25T19:51:48.915",
+                    "Date": "2024-01-25T18:19:17.33",
+                    "RisingDegrees": "3s 11* 28\""
+                },
+                {
+                    "ID": 10,
+                    "Day": "Night Time",
+                    "ChaughadiaChakra": "Chara-Ve",
+                    "StartTime": "2024-01-25T19:51:48.915",
+                    "EndTime": "2024-01-25T21:24:20.5",
+                    "Date": "2024-01-25T19:51:48.915",
+                    "RisingDegrees": "4s 3* 28\""
+                },
+                {
+                    "ID": 11,
+                    "Day": "Night Time",
+                    "ChaughadiaChakra": "Roga-Ma",
+                    "StartTime": "2024-01-25T21:24:20.5",
+                    "EndTime": "2024-01-25T22:56:52.085",
+                    "Date": "2024-01-25T21:24:20.5",
+                    "RisingDegrees": "4s 26* 41\""
+                },
+                {
+                    "ID": 12,
+                    "Day": "Night Time",
+                    "ChaughadiaChakra": "Kaala-Sa",
+                    "StartTime": "2024-01-25T22:56:52.085",
+                    "EndTime": "2024-01-26T00:29:23.67",
+                    "Date": "2024-01-25T22:56:52.085",
+                    "RisingDegrees": "5s 20* 0\""
+                },
+                {
+                    "ID": 13,
+                    "Day": "Night Time",
+                    "ChaughadiaChakra": "Laabha-Me",
+                    "StartTime": "2024-01-26T00:29:23.67",
+                    "EndTime": "2024-01-26T02:01:55.255",
+                    "Date": "2024-01-26T00:29:23.67",
+                    "RisingDegrees": "6s 13* 2\""
+                },
+                {
+                    "ID": 14,
+                    "Day": "Night Time",
+                    "ChaughadiaChakra": "Udvega-Su",
+                    "StartTime": "2024-01-26T02:01:55.255",
+                    "EndTime": "2024-01-26T03:34:26.84",
+                    "Date": "2024-01-26T02:01:55.255",
+                    "RisingDegrees": "7s 4* 49\""
+                },
+                {
+                    "ID": 15,
+                    "Day": "Night Time",
+                    "ChaughadiaChakra": "Shubha-Ju",
+                    "StartTime": "2024-01-26T03:34:26.84",
+                    "EndTime": "2024-01-26T05:06:58.425",
+                    "Date": "2024-01-26T03:34:26.84",
+                    "RisingDegrees": "7s 26* 7\""
+                },
+                {
+                    "ID": 16,
+                    "Day": "Night Time",
+                    "ChaughadiaChakra": "Amrit-Mo",
+                    "StartTime": "2024-01-26T05:06:58.425",
+                    "EndTime": "2024-01-26T06:39:30.01",
+                    "Date": "2024-01-26T05:06:58.425",
+                    "RisingDegrees": "8s 17* 21\""
+                }
+            ],
+            "Kalam": [
+                {
+                    "kalamName": "Yamaghanta",
+                    "StartTime": "2024-01-25T06:39:30.011",
+                    "EndTime": "2024-01-25T08:06:58.425",
+                    "Date": "2024-01-25T06:39:30.011"
+                },
+                {
+                    "kalamName": "Gulika",
+                    "StartTime": "2024-01-25T09:34:26.839",
+                    "EndTime": "2024-01-25T11:01:55.253",
+                    "Date": "2024-01-25T09:34:26.839"
+                },
+                {
+                    "kalamName": "Kaala",
+                    "StartTime": "2024-01-25T11:01:55.253",
+                    "EndTime": "2024-01-25T12:29:23.667",
+                    "Date": "2024-01-25T11:01:55.253"
+                },
+                {
+                    "kalamName": "Mrityu",
+                    "StartTime": "2024-01-25T13:56:52.081",
+                    "EndTime": "2024-01-25T15:24:20.495",
+                    "Date": "2024-01-25T13:56:52.081"
+                },
+                {
+                    "kalamName": "Ardhaprahara",
+                    "StartTime": "2024-01-25T15:24:20.495",
+                    "EndTime": "2024-01-25T16:51:48.909",
+                    "Date": "2024-01-25T15:24:20.495"
+                },
+                {
+                    "kalamName": "Mrityu",
+                    "StartTime": "2024-01-25T19:51:48.915",
+                    "EndTime": "2024-01-25T21:24:20.5",
+                    "Date": "2024-01-25T19:51:48.915"
+                },
+                {
+                    "kalamName": "Ardhaprahara",
+                    "StartTime": "2024-01-25T21:24:20.5",
+                    "EndTime": "2024-01-25T22:56:52.085",
+                    "Date": "2024-01-25T21:24:20.5"
+                },
+                {
+                    "kalamName": "Yamaghanta",
+                    "StartTime": "2024-01-25T22:56:52.085",
+                    "EndTime": "2024-01-26T00:29:23.67",
+                    "Date": "2024-01-25T22:56:52.085"
+                },
+                {
+                    "kalamName": "Gulika",
+                    "StartTime": "2024-01-26T02:01:55.255",
+                    "EndTime": "2024-01-26T03:34:26.84",
+                    "Date": "2024-01-26T02:01:55.255"
+                },
+                {
+                    "kalamName": "Kaala",
+                    "StartTime": "2024-01-26T03:34:26.84",
+                    "EndTime": "2024-01-26T05:06:58.425",
+                    "Date": "2024-01-26T03:34:26.84"
+                }
+            ],
+            "RahuKalam": [
+                {
+                    "Date": "2024-01-25T13:56:52.081",
+                    "StartTime": "2024-01-25T13:56:52.081",
+                    "EndTime": "2024-01-25T15:24:20.495"
+                },
+                {
+                    "Date": "2024-01-25T19:51:48.915",
+                    "StartTime": "2024-01-25T19:51:48.915",
+                    "EndTime": "2024-01-25T21:24:20.5"
+                }
+            ]
+        },
+        "ShubhaHora": [
+            {
+                "HoraName": "Jupiter",
+                "StartTime": "2024-01-25T06:39:30.011",
+                "EndTime": "2024-01-25T07:39:30.655"
+            },
+            {
+                "HoraName": "Mars",
+                "StartTime": "2024-01-25T07:39:30.655",
+                "EndTime": "2024-01-25T08:39:31.299"
+            },
+            {
+                "HoraName": "Sun",
+                "StartTime": "2024-01-25T08:39:31.299",
+                "EndTime": "2024-01-25T09:39:31.943"
+            },
+            {
+                "HoraName": "Venus",
+                "StartTime": "2024-01-25T09:39:31.943",
+                "EndTime": "2024-01-25T10:39:32.587"
+            },
+            {
+                "HoraName": "Mercury",
+                "StartTime": "2024-01-25T10:39:32.587",
+                "EndTime": "2024-01-25T11:39:33.231"
+            },
+            {
+                "HoraName": "Moon",
+                "StartTime": "2024-01-25T11:39:33.231",
+                "EndTime": "2024-01-25T12:39:33.875"
+            },
+            {
+                "HoraName": "Saturn",
+                "StartTime": "2024-01-25T12:39:33.875",
+                "EndTime": "2024-01-25T13:39:34.519"
+            },
+            {
+                "HoraName": "Jupiter",
+                "StartTime": "2024-01-25T13:39:34.519",
+                "EndTime": "2024-01-25T14:39:35.163"
+            },
+            {
+                "HoraName": "Mars",
+                "StartTime": "2024-01-25T14:39:35.163",
+                "EndTime": "2024-01-25T15:39:35.807"
+            },
+            {
+                "HoraName": "Sun",
+                "StartTime": "2024-01-25T15:39:35.807",
+                "EndTime": "2024-01-25T16:39:36.451"
+            },
+            {
+                "HoraName": "Venus",
+                "StartTime": "2024-01-25T16:39:36.451",
+                "EndTime": "2024-01-25T17:39:37.095"
+            },
+            {
+                "HoraName": "Mercury",
+                "StartTime": "2024-01-25T17:39:37.095",
+                "EndTime": "2024-01-25T18:39:37.739"
+            },
+            {
+                "HoraName": "Moon",
+                "StartTime": "2024-01-25T18:39:37.739",
+                "EndTime": "2024-01-25T19:39:38.383"
+            },
+            {
+                "HoraName": "Saturn",
+                "StartTime": "2024-01-25T19:39:38.383",
+                "EndTime": "2024-01-25T20:39:39.027"
+            },
+            {
+                "HoraName": "Jupiter",
+                "StartTime": "2024-01-25T20:39:39.027",
+                "EndTime": "2024-01-25T21:39:39.671"
+            },
+            {
+                "HoraName": "Mars",
+                "StartTime": "2024-01-25T21:39:39.671",
+                "EndTime": "2024-01-25T22:39:40.315"
+            },
+            {
+                "HoraName": "Sun",
+                "StartTime": "2024-01-25T22:39:40.315",
+                "EndTime": "2024-01-25T23:39:40.959"
+            },
+            {
+                "HoraName": "Venus",
+                "StartTime": "2024-01-25T23:39:40.959",
+                "EndTime": "2024-01-26T00:39:41.603"
+            },
+            {
+                "HoraName": "Mercury",
+                "StartTime": "2024-01-26T00:39:41.603",
+                "EndTime": "2024-01-26T01:39:42.247"
+            },
+            {
+                "HoraName": "Moon",
+                "StartTime": "2024-01-26T01:39:42.247",
+                "EndTime": "2024-01-26T02:39:42.891"
+            },
+            {
+                "HoraName": "Saturn",
+                "StartTime": "2024-01-26T02:39:42.891",
+                "EndTime": "2024-01-26T03:39:43.535"
+            },
+            {
+                "HoraName": "Jupiter",
+                "StartTime": "2024-01-26T03:39:43.535",
+                "EndTime": "2024-01-26T04:39:44.179"
+            },
+            {
+                "HoraName": "Mars",
+                "StartTime": "2024-01-26T04:39:44.179",
+                "EndTime": "2024-01-26T05:39:44.823"
+            },
+            {
+                "HoraName": "Sun",
+                "StartTime": "2024-01-26T05:39:44.823",
+                "EndTime": "2024-01-26T06:39:45.467"
+            }
+        ],
+        "NakshatraMuhurtha": [
+            {
+                "NakshatraName": "Ardra",
+                "Start": "2024-01-25T06:39:30.011",
+                "Eagle": "Sleep",
+                "Owl": "Death",
+                "Crow": "Eat",
+                "Cock": "Walk",
+                "Peacock": "Rule"
+            },
+            {
+                "NakshatraName": "Ashlesha",
+                "Start": "2024-01-25T07:26:09.165",
+                "Eagle": "Sleep",
+                "Owl": "Death",
+                "Crow": "Eat",
+                "Cock": "Walk",
+                "Peacock": "Rule"
+            },
+            {
+                "NakshatraName": "Anuradha",
+                "Start": "2024-01-25T08:12:48.319",
+                "Eagle": "Sleep",
+                "Owl": "Death",
+                "Crow": "Eat",
+                "Cock": "Walk",
+                "Peacock": "Rule"
+            },
+            {
+                "NakshatraName": "Magha",
+                "Start": "2024-01-25T08:59:27.473",
+                "Eagle": "Death",
+                "Owl": "Eat",
+                "Crow": "Walk",
+                "Cock": "Rule",
+                "Peacock": "Sleep"
+            },
+            {
+                "NakshatraName": "Dhanistha",
+                "Start": "2024-01-25T09:46:06.627",
+                "Eagle": "Death",
+                "Owl": "Eat",
+                "Crow": "Walk",
+                "Cock": "Rule",
+                "Peacock": "Sleep"
+            },
+            {
+                "NakshatraName": "Purva Ashadha",
+                "Start": "2024-01-25T10:32:45.781",
+                "Eagle": "Death",
+                "Owl": "Eat",
+                "Crow": "Walk",
+                "Cock": "Rule",
+                "Peacock": "Sleep"
+            },
+            {
+                "NakshatraName": "Uttara Ashadha",
+                "Start": "2024-01-25T11:19:24.935",
+                "Eagle": "Eat",
+                "Owl": "Walk",
+                "Crow": "Rule",
+                "Cock": "Sleep",
+                "Peacock": "Death"
+            },
+            {
+                "NakshatraName": "Abhijit",
+                "Start": "2024-01-25T12:06:04.089",
+                "Eagle": "Eat",
+                "Owl": "Walk",
+                "Crow": "Rule",
+                "Cock": "Sleep",
+                "Peacock": "Death"
+            },
+            {
+                "NakshatraName": "Rohini",
+                "Start": "2024-01-25T12:52:43.243",
+                "Eagle": "Eat",
+                "Owl": "Walk",
+                "Crow": "Rule",
+                "Cock": "Sleep",
+                "Peacock": "Death"
+            },
+            {
+                "NakshatraName": "Jyeshtha",
+                "Start": "2024-01-25T13:39:22.397",
+                "Eagle": "Walk",
+                "Owl": "Rule",
+                "Crow": "Sleep",
+                "Cock": "Death",
+                "Peacock": "Eat"
+            },
+            {
+                "NakshatraName": "Vishakha",
+                "Start": "2024-01-25T14:26:01.551",
+                "Eagle": "Walk",
+                "Owl": "Rule",
+                "Crow": "Sleep",
+                "Cock": "Death",
+                "Peacock": "Eat"
+            },
+            {
+                "NakshatraName": "Mula",
+                "Start": "2024-01-25T15:12:40.705",
+                "Eagle": "Walk",
+                "Owl": "Rule",
+                "Crow": "Sleep",
+                "Cock": "Death",
+                "Peacock": "Eat"
+            },
+            {
+                "NakshatraName": "Shatabhishaj",
+                "Start": "2024-01-25T15:59:19.859",
+                "Eagle": "Rule",
+                "Owl": "Sleep",
+                "Crow": "Death",
+                "Cock": "Eat",
+                "Peacock": "Walk"
+            },
+            {
+                "NakshatraName": "Uttara Phalguni",
+                "Start": "2024-01-25T16:45:59.013",
+                "Eagle": "Rule",
+                "Owl": "Sleep",
+                "Crow": "Death",
+                "Cock": "Eat",
+                "Peacock": "Walk"
+            },
+            {
+                "NakshatraName": "Purva Phalguni",
+                "Start": "2024-01-25T17:32:38.167",
+                "Eagle": "Rule",
+                "Owl": "Sleep",
+                "Crow": "Death",
+                "Cock": "Eat",
+                "Peacock": "Walk"
+            },
+            {
+                "NakshatraName": "Ardra",
+                "Start": "2024-01-25T18:19:17.33",
+                "Eagle": "Sleep",
+                "Owl": "Eat",
+                "Crow": "Rule",
+                "Cock": "Death",
+                "Peacock": "Walk"
+            },
+            {
+                "NakshatraName": "Purva Bhadrapad",
+                "Start": "2024-01-25T19:08:38.175",
+                "Eagle": "Sleep",
+                "Owl": "Eat",
+                "Crow": "Rule",
+                "Cock": "Death",
+                "Peacock": "Walk"
+            },
+            {
+                "NakshatraName": "Uttara Bhadrapad",
+                "Start": "2024-01-25T19:57:59.02",
+                "Eagle": "Sleep",
+                "Owl": "Eat",
+                "Crow": "Rule",
+                "Cock": "Death",
+                "Peacock": "Walk"
+            },
+            {
+                "NakshatraName": "Revati",
+                "Start": "2024-01-25T20:47:19.865",
+                "Eagle": "Walk",
+                "Owl": "Sleep",
+                "Crow": "Eat",
+                "Cock": "Rule",
+                "Peacock": "Death"
+            },
+            {
+                "NakshatraName": "Ashvini",
+                "Start": "2024-01-25T21:36:40.71",
+                "Eagle": "Walk",
+                "Owl": "Sleep",
+                "Crow": "Eat",
+                "Cock": "Rule",
+                "Peacock": "Death"
+            },
+            {
+                "NakshatraName": "Bharani",
+                "Start": "2024-01-25T22:26:01.555",
+                "Eagle": "Walk",
+                "Owl": "Sleep",
+                "Crow": "Eat",
+                "Cock": "Rule",
+                "Peacock": "Death"
+            },
+            {
+                "NakshatraName": "Kritika",
+                "Start": "2024-01-25T23:15:22.4",
+                "Eagle": "Death",
+                "Owl": "Walk",
+                "Crow": "Sleep",
+                "Cock": "Eat",
+                "Peacock": "Rule"
+            },
+            {
+                "NakshatraName": "Rohini",
+                "Start": "2024-01-26T00:04:43.245",
+                "Eagle": "Death",
+                "Owl": "Walk",
+                "Crow": "Sleep",
+                "Cock": "Eat",
+                "Peacock": "Rule"
+            },
+            {
+                "NakshatraName": "Mrigashira",
+                "Start": "2024-01-26T00:54:04.09",
+                "Eagle": "Death",
+                "Owl": "Walk",
+                "Crow": "Sleep",
+                "Cock": "Eat",
+                "Peacock": "Rule"
+            },
+            {
+                "NakshatraName": "Punarvasu",
+                "Start": "2024-01-26T01:43:24.935",
+                "Eagle": "Rule",
+                "Owl": "Death",
+                "Crow": "Walk",
+                "Cock": "Sleep",
+                "Peacock": "Eat"
+            },
+            {
+                "NakshatraName": "Pushya",
+                "Start": "2024-01-26T02:32:45.78",
+                "Eagle": "Rule",
+                "Owl": "Death",
+                "Crow": "Walk",
+                "Cock": "Sleep",
+                "Peacock": "Eat"
+            },
+            {
+                "NakshatraName": "Shravan",
+                "Start": "2024-01-26T03:22:06.625",
+                "Eagle": "Rule",
+                "Owl": "Death",
+                "Crow": "Walk",
+                "Cock": "Sleep",
+                "Peacock": "Eat"
+            },
+            {
+                "NakshatraName": "Hasta",
+                "Start": "2024-01-26T04:11:27.47",
+                "Eagle": "Eat",
+                "Owl": "Rule",
+                "Crow": "Death",
+                "Cock": "Walk",
+                "Peacock": "Sleep"
+            },
+            {
+                "NakshatraName": "Chitra",
+                "Start": "2024-01-26T05:00:48.315",
+                "Eagle": "Eat",
+                "Owl": "Rule",
+                "Crow": "Death",
+                "Cock": "Walk",
+                "Peacock": "Sleep"
+            },
+            {
+                "NakshatraName": "Swati",
+                "Start": "2024-01-26T05:50:09.16",
+                "Eagle": "Eat",
+                "Owl": "Rule",
+                "Crow": "Death",
+                "Cock": "Walk",
+                "Peacock": "Sleep"
+            }
+        ],
+        "UpComingNakshatra": [
+            {
+                "Name": "Pushya-Sa",
+                "From": "Thursday-08:18",
+                "To": "Friday-10:31",
+                "degree": 7.77,
+                "StartDate": "2024-01-25T08:18:07.083",
+                "EndDate": "2024-01-26T10:31:17.257"
+            }
+        ],
+        "UpComingTithi": [
+            {
+                "Name": "Krishna Prathamai - Su",
+                "From": "Thursday-23:25",
+                "To": "Saturday-01:22",
+                "degree": 15.77,
+                "StartDate": "2024-01-25T23:25:31.875",
+                "EndDate": "2024-01-27T01:22:56.666"
+            }
+        ],
+        "UpComingKarana": [
+            {
+                "Name": "Bhava-Su",
+                "From": "Thursday-10:35",
+                "To": "Thursday-23:26",
+                "degree": 29.78,
+                "StartDate": "2024-01-25T10:35:56.021",
+                "EndDate": "2024-01-25T23:26:10.242"
+            }
+        ],
+        "UpComingYoga": [
+            {
+                "Name": "Priti-(Me)",
+                "From": "Thursday-07:33",
+                "To": "Friday-07:44",
+                "degree": 1.83,
+                "StartDate": "2024-01-25T07:33:30.527",
+                "EndDate": "2024-01-26T07:44:12.368"
+            }
+        ]
+    }
+}

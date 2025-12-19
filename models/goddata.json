@@ -1,0 +1,74 @@
+[
+  {
+    "god_name": "Gyatri ji",
+    "thumbnail": "gyatri.png",
+    "related_month": ["May", "June"], 
+    "related_days": ["Sunday"]
+  },
+  {
+    "god_name": "Shiv ji",
+    "thumbnail": "shiv.png",
+    "related_month": ["July", "August"], 
+    "related_days": ["Monday"]
+  },
+  {
+    "god_name": "Ganesh ji",
+    "thumbnail": "ganesh.png",
+    "related_month": ["August", "September"], 
+    "related_days": ["Wednesday"]
+  },
+  {
+    "god_name": "Parvati ji",
+    "thumbnail": "parvati.png",
+    "related_month": ["July", "August"], 
+    "related_days": ["Friday"]
+  },
+  {
+    "god_name": "Hanuman ji",
+    "thumbnail": "hanuman.png",
+    "related_month": [],
+    "related_days": ["Tuesday", "Saturday"]
+  },
+  {
+    "god_name": "Durga ji",
+    "thumbnail": "durga.png",
+    "related_month": ["September", "October"], 
+    "related_days": ["Friday"]
+  },
+  {
+    "god_name": "Laxmi ji",
+    "thumbnail": "laxmi.png",
+    "related_month": ["October", "November"], 
+    "related_days": ["Friday"]
+  },
+  {
+    "god_name": "Saraswati ji",
+    "thumbnail": "saraswati.png",
+    "related_month": ["January", "February"], 
+    "related_days": ["Thursday"]
+  },
+  {
+    "god_name": "Vishnu ji",
+    "thumbnail": "vishnu.png",
+    "related_month": ["June", "July"], 
+    "related_days": ["Thursday"]
+  },
+  {
+    "god_name": "Krishana ji",
+    "thumbnail": "krishana.png",
+    "related_month": ["August"], 
+    "related_days": ["Wednesday"]
+  },
+  {
+    "god_name": "Radha ji",
+    "thumbnail": "radha.png",
+    "related_month": ["August", "September"], 
+    "related_days": ["Friday"]
+  },
+  {
+    "god_name": "Shani Dev ji",
+    "thumbnail": "shanidev.png",
+    "related_month": [],
+    "related_days": ["Saturday"]
+  }
+]

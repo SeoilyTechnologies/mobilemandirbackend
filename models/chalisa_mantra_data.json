@@ -1,0 +1,182 @@
+[
+  {
+    "title": "Bhojan Mantra",
+    "audioAsset": "assets/audio/bhojan_mantra copy.mp3",
+    "lyricsKey": "bhojanMantraLyrics",
+    "thumbnail": "bhojanmanta.png",
+    "related_god": [],
+    "related_month": [],
+    "related_days": [],
+    "type": "mantra"
+  },
+  {
+    "title": "Durga Chalisha",
+    "audioAsset": "assets/audio/durga_chalisha.mp3",
+    "lyricsKey": "durgaChalisa",
+    "thumbnail": "durgaji.png",
+    "related_god": ["durga"],
+    "related_month": ["october"],
+    "related_days": ["friday", "tuesday"],
+    "type": "chalisa"
+  },
+  {
+    "title": "Shiv Chalisha",
+    "audioAsset": "assets/audio/Shiv_Chalisa_3.mp3",
+    "lyricsKey": "shivChalisa",
+    "thumbnail": "shiv.png",
+    "related_god": ["shiv", "ganesh", "parvati"],
+    "related_month": ["july", "august"],
+    "related_days": ["monday"],
+    "type": "chalisa"
+  },
+  {
+    "title": "Sankat Mochan",
+    "audioAsset": "assets/hanumang/Sankatmochan_Hanuman_Ashtak.mp3",
+    "lyricsKey": "sankatMochanLyrics",
+    "thumbnail": "hanumaji.png",
+    "related_god": ["hanuman"],
+    "related_month": [],
+    "related_days": ["tuesday", "saturday"],
+    "type": "chalisa"
+  },
+  {
+    "title": "Shanti Mantra",
+    "audioAsset": "assets/audio/shantimantra.mp3",
+    "lyricsKey": "shantiMantraLyrics",
+    "thumbnail": "shantimantra.png",
+    "related_god": [],
+    "related_month": [],
+    "related_days": [],
+    "type": "mantra"
+  },
+  {
+    "title": "Bajrang Baan",
+    "audioAsset": "assets/hanumang/Bajrang_Baan.mp3",
+    "lyricsKey": "bajrangBaanLyrics",
+    "thumbnail": "hanumaji.png",
+    "related_god": ["hanuman"],
+    "related_month": [],
+    "related_days": ["tuesday", "saturday"],
+    "type": "baan"
+  },
+  {
+    "title": "Gayatri Mantra",
+    "audioAsset": "assets/audio/Gayatri Mantra.mp3",
+    "lyricsKey": "gayatriMantraLyrics",
+    "thumbnail": "gayatri.png",
+    "related_god": ["gayatri"],
+    "related_month": [],
+    "related_days": ["sunday"],
+    "type": "mantra"
+  },
+  {
+    "title": "Ganesh Aarti",
+    "audioAsset": "assets/audio/Jai_Ganesh_Deva_1.mp3",
+    "lyricsKey": "ganeshAarti",
+    "thumbnail": "ganeshji.png",
+    "related_god": ["shiv", "ganesh", "parvati"],
+    "related_month": ["july", "august"],
+    "related_days": ["wednesday"],
+    "type": "aarti"
+  },
+  {
+    "title": "Laxmi Ji Aarti",
+    "audioAsset": "assets/audio/Om Jai Lakshmi Mata Aarti Aarti Vol 3 128 Kbps.mp3",
+    "lyricsKey": "laxmiJilyrics",
+    "thumbnail": "laxmiji.png",
+    "related_god": ["laxmi", "ganesh", "saraswati"],
+    "related_month": ["october", "november"],
+    "related_days": ["friday"],
+    "type": "aarti"
+  },
+  {
+    "title": "Shiv Ji Aarti",
+    "audioAsset": "assets/audio/Om Jai Shiv Omkara Aarti Vol 3 128 Kbps.mp3",
+    "lyricsKey": "shivAartiLyrics",
+    "thumbnail": "shiv.png",
+    "related_god": ["shiv"],
+    "related_month": ["july", "august"],
+    "related_days": ["monday"],
+    "type": "aarti"
+  },
+  {
+    "title": "Om Jay Jagdeesh Hare",
+    "audioAsset": "assets/audio/Om Jai Jagdish Hare Aarti Vol 3 128 Kbps (1).mp3",
+    "lyricsKey": "OmJayJadeeshlyrics",
+    "thumbnail": "vishnu.png",
+    "related_god": ["vishnu"],
+    "related_month": [],
+    "related_days": ["thursday"],
+    "type": "aarti"
+  },
+  {
+    "title": "Saraswati Ji Aarti",
+    "audioAsset": "assets/audio/Om Jai Saraswati Mata Aarti Vol 3 128 Kbps.mp3",
+    "lyricsKey": "SharashwatiJiAartilyrics",
+    "thumbnail": "saraswatiji.png",
+    "related_god": ["saraswati"],
+    "related_month": ["january", "february"],
+    "related_days": ["thursday"],
+    "type": "aarti"
+  },
+  {
+    "title": "Ramayan Ji Aarti",
+    "audioAsset": "assets/audio/Aarti Shri Ramayan Ji Ki Aarti Vol 3 128 Kbps (1).mp3",
+    "lyricsKey": "ramayanAartiLyrics",
+    "thumbnail": "ramji.png",
+    "related_god": ["ram", "laxman", "sita"],
+    "related_month": ["april"],
+    "related_days": ["thursday", "sunday"],
+    "type": "aarti"
+  },
+  {
+    "title": "Durga Ji Aarti",
+    "audioAsset": "assets/audio/durajiaarti.mp3",
+    "lyricsKey": "ambeGauriAartiLyrics",
+    "thumbnail": "durgaji.png",
+    "related_god": ["durga"],
+    "related_month": ["october"],
+    "related_days": ["friday", "tuesday"],
+    "type": "aarti"
+  },
+  {
+    "title": "Sany Dev Ji Aarti",
+    "audioAsset": "assets/audio/shaniaarti.mp4",
+    "lyricsKey": "sunnyDevAartilyrics",
+    "thumbnail": "shani.png",
+    "related_god": ["shani"],
+    "related_month": [],
+    "related_days": ["saturday"],
+    "type": "aarti"
+  },
+  {
+    "title": "Kunj Bihari Ji Aarti",
+    "audioAsset": "assets/audio/Aarti Kunj Bihari Ki Aarti Vol 3 128 Kbps (1).mp3",
+    "lyricsKey": "kunjBihariAartiLyrics",
+    "thumbnail": "krishna.png",
+    "related_god": ["krishna", "radha"],
+    "related_month": ["august", "september"],
+    "related_days": ["thursday", "friday"],
+    "type": "aarti"
+  },
+  {
+    "title": "Hanuman Chalisa",
+    "audioAsset": "assets/shri-hanuman-chalisa.mp3",
+    "lyricsKey": "hanumanChalisa",
+    "thumbnail": "hanumaji.png",
+    "related_god": ["hanuman"],
+    "related_month": [],
+    "related_days": ["tuesday", "saturday"],
+    "type": "chalisa"
+  },
+  {
+    "title": "Hanuman Aarti",
+    "audioAsset": "assets/hanumang/Aarti_Kije_Hanuman_Lala_Ki.mp3",
+    "lyricsKey": "hanumanAartiLyrics",
+    "thumbnail": "hanumaji.png",
+    "related_god": ["hanuman"],
+    "related_month": [],
+    "related_days": ["tuesday", "saturday"],
+    "type": "aarti"
+  }
+]
