@@ -18,12 +18,17 @@ exports.registerUser = async (req, res) => {
       isNotificationAllowed,
     } = req.body;
 
+    //console.log("BODY:", req.body);
+console.log("FILEffffff:", req.file.location);
     // 1️⃣ Check if user already exists
     const existingUser = await User.findOne({ email });
 
     // CASE 1 — New user (not found in DB)
+          console.log(" req.file.location  req.file.location", req.file.location)
+
     if (!existingUser) {
-      const profileImagePath = req.file ? `/uploads/${req.file.filename}` : "";
+      console.log(" req.file.location  req.file.location", req.file.location)
+      const profileImagePath = req.file ? req.file.location : "";
       const otp = Math.floor(100000 + Math.random() * 900000).toString();
 
       const newUser = new User({

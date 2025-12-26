@@ -1,6 +1,8 @@
+const dotenv=require('dotenv');
 const express = require("express");
 const app= express();
-const dotenv=require('dotenv');
+dotenv.config();
+
 const authRoute=require('./routes/auth')
 const userRoute=require('./routes/user');
 const godRoure=require('./routes/god');
@@ -28,7 +30,7 @@ const trithRoutes = require("./routes/tirth_routes");
 const bannerRoutes = require("./routes/bannerRoutes");
 
 const path = require("path");
-dotenv.config();
+
 const mongoose=require("./mongoose_connect"); 
 
 app.use(express.json({ limit: "50mb" }));
@@ -65,6 +67,10 @@ app.use("/api/wishlist/",wishlistRoute);
 app.use("/api/user/",userRoute);
 
 
-app.listen(process.env.PORT,()=>{
-    console.log("Running on 5000");
-})
+const PORT = process.env.PORT || 8080;
+app.listen(PORT, () => {
+  console.log(`Server running on port ${PORT}`);
+});
+app.get("/health", (req, res) => {
+  res.send("OK");
+});

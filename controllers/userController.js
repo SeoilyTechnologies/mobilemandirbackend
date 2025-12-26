@@ -78,7 +78,7 @@ exports.updateProfile = async (req, res) => {
 
     // Step 4: Profile image (if file present from multer)
     if (req.file) {
-      req.body.profile_image = `/uploads/${req.file.filename}`;
+      req.body.profile_image = req.file.location;
     }
 
     console.log(req.body );

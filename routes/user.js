@@ -2,7 +2,9 @@
 
 const router = require("express").Router();
 const verifyToken = require("../token_middleware/verifyToken");
-const upload = require("../utils/multer");
+//const upload = require("../utils/multer");
+const upload = require("../utils/s3Upload");
+
 const { getProfile, updateProfile } = require("../controllers/userController");
 
 // GET /api/user/profile
